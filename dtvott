@@ -1372,5 +1372,17 @@ https://tvup-live.secure.footprint.net/somos6/somos6.mpd
 #EXTINF:-1, Univision
 http://89.187.175.143/3108/mpegts
 
+#EXTINF:-1, NBC6
+http://89.187.175.143/3084/mpegts
+
+#EXTINF:-1, WWE
+http://89.187.175.143/3075/mpegts
+
+#EXTINF:-1, FS1
+http://89.187.175.143/3056/mpegts
+
+#EXTINF:-1, FS2
+http://89.187.175.143/3028/mpegts
+
 
 
