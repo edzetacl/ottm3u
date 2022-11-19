@@ -1384,5 +1384,12 @@ http://89.187.175.143/3056/mpegts
 #EXTINF:-1, FS2
 http://89.187.175.143/3028/mpegts
 
+#EXTINF:-1, Telemundo East
+http://89.187.175.143/4095/mpegts
 
+#EXTINF:-1, Telemundo West
+http://89.187.175.143/4096/mpegts
+
+#EXTINF:-1, Unimas
+http://89.187.175.143/4097/mpegts
 
