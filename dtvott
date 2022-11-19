@@ -40,11 +40,7 @@ https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd|User-Agent="Mozil
 https://1030-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RGtxpt64BsbxKeJd6ZnQfA","kid":"xdDXbiSEQjWYj5JlYZ5f7A"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar", tvg-logo="https://i.imgur.com/aQs7w6n.png", America TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -210,7 +206,7 @@ https://1048-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1pHIipVEBmZ0LR2BgxgjRw","kid":"m1Ns0XFmR+6UxF+kg20p1g"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://vxlive.cdn.antel.net.uy/auth_V_TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVFZfQ2l1ZGFkJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2Njg4NTA3MjImcmFuZG9tPTNCQkhEd3prOFYmYy1pcD0xODEuMTYwLjg4LjEyNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTEyODAmcHVibGljX2lkPTJzNnIyLDU4MTQwYzY5NGJiMDJlZTFlNTcxMTY1NGZkNjIzNDBhZTkxMzM3MDhlNjJlNjZmMTk4Nzc0YWQ4N2NiMjEwZWM=/vxfmt=hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ossaqdt.png", Canal 4 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -230,22 +226,15 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b7l0Z8Dw6hP4bUGnDgKcUQ","kid":"jdNHgtdU+Pyx6LONqf+tCw"}],"type":"temporary"}
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=dfd472261dcf350594173e8acf5f97ad:313d66dcc3202f8cb471c51b864d3917
+https://1187-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKPoInD.png", Canal 12 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rLEzcMA6clTiu5zJ0hJQFw","kid":"396dNddDi/32HaXfrAVXwQ"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 Mx
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
-https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=f4c55ed8f82e5924b22d00ce154ae849:fdea8ee702bd5262cb6a2901dc37e7b0
+https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="24Horas.cl", tvg-logo="https://i.imgur.com/7HmsUh2.png", 24 Horas Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -293,8 +282,8 @@ https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9Oree7w5slQCrPowG7rQSg","k":"p00d9CNadIeDJ6qNU_8oPA"}]}
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=40b7d6c428f453498bb8efd1ea9f4b87:9410baaf249ff8f0cd6dced01ecf2f5d
+https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="C5N.ar", tvg-logo="https://i.imgur.com/WbQUIDR.png", C5N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -316,19 +305,12 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UMWNVomRd30Lw//I9oA8kg","kid":"NbE4MSDaWZmC26fVtFZfDg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="CNNenEspanol.us", tvg-logo="https://i.imgur.com/rTROakk.png", CNN Es HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CyDtnaDlRXyd_TrgtgkkkQ","k":"mJl6cCDBjLKBdKJJAUeDCg"}]}
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es", tvg-logo="https://i.imgur.com/PvnEsVq.png",Tve America
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-tve-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TVEStarHD.es", tvg-logo="https://i.imgur.com/akIXkiS.png", Star TVE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -338,18 +320,16 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Es
 https://channel-startve-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es", tvg-logo="https://i.imgur.com/nBvllys.png" , Antena 3 Internacional
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
 
 #EXTINF:-1 tvg-id="RaiItaliaAmerica.it", tvg-logo="https://i.imgur.com/NuYduaM.png", Rai International
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 
 #EXTINF:-1 tvg-id="DWEspanol.de", tvg-logo="https://i.imgur.com/3xXW7l2.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -398,13 +378,6 @@ http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QEzE+0X4LJp9/9PSSWzKIA","kid":"olXhOE2z6c5+A0noqpufdw"}],"type":"temporary"}
 http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YC9C1P.png", DreamWorks (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fzDEPkdURBIiH9ZCAdkvSw","k":"-D0J11oJRrHXGqSMIBtNiw"}]}
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-id="BabyTVHD.uk", tvg-logo="https://i.imgur.com/UhxcIqw.png",Baby Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -427,25 +400,13 @@ https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd|User-Agent="Mozilla
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us", tvg-logo="https://i.imgur.com/Fv4p3LU.png",Discovery Theater
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://181.78.11.117:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us", tvg-logo="https://i.imgur.com/m4ZhjRZ.png", Discovery World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VnV9ZWpperei5eCDtdIbtQ","kid":"NO6UwiYzRfejpZBmEmTkkA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://190.83.119.67:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us", tvg-logo="https://i.imgur.com/I1Ef6dp.png", Discovery Science
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Sn7m10hPiDiq+UpuM8llw","kid":"RrpAn7BOQPuGtGbZfjqViA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=437153691&_cdn_timestamp=1669266532&_cdn_token=2109c1a6dfafba1ec4228fba579fe166ebd4b072
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tU4wbKN.png", Encuentro
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -852,11 +813,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP
 https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us", tvg-logo="https://i.imgur.com/Wz3WemY.png", HBO Xtreme
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M0ED4qvhb6p/mrLjCXxaWA","kid":"1QQBG770Z8DeOnU04wKm1A"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us", tvg-logo="https://i.imgur.com/9R8GERa.png", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1159,20 +1116,6 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
 https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports Internacional (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HDEbBp284xzo5ipufiQz6w","kid":"WOHr512UT2qY6mexx8Clcg"}],"type":"temporary"}
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/g7MXbfO.png", VTV (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W7/8aAdk29Y9kLd0s6oMCg","kid":"uWlgqnFaTlG36VLoHJmsjg"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/g7MXbfO.png", VTV (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1319,13 +1262,6 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8NIlT4W3Nxf0ws2BvacYiQ","kid":"NrLGt3NqWQG/QIkWpFSr+Q"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Zr+/pESeuLwbz3V31b/6rQ","kid":"DJ6z6tOKEirEYK2WqOv9Lg"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1333,24 +1269,11 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.m
 #KODIPROP:inputstream.adaptive.license_key=74d426155d66366e97dc3a95d406dc03:049cb061d1e683a01504192e5f8e90cb
 https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cWRJdWMWuRxUgDqqIqL78A","kid":"YQCN/IZ1RM2HLembHyuCzw"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
-http://50.7.231.220:8081/204/index.m3u8?wmsAuthSign=1668338574p671i59i061i181S49a74597cf8f6af0bf59c0c3c4a66b60
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP1)
 http://85.11.144.9:4222/MTVHits?token=test
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP4)
-http://myott.top/stream/P4H2M76YRH/302.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP UK)
-http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753862
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
+http://181.189.243.254:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP1)
 http://190.83.119.67:8000/play/a0po/index.m3u8
@@ -1377,11 +1300,7 @@ http://livetv.mylifeisgood.ml/channels/mtv90s
 http://85.17.17.249/mtv_rocks/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gCyJxrrmokWqr89AwZhvwQ","kid":"HwwJ7Z5YQc+Ge6brPN/WHQ"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://181.189.243.254:8000/play/a0sw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP2)
 http://38.143.137.221:8000/LA49/index.m3u8
@@ -1408,39 +1327,7 @@ http://85.11.144.9:4222/MTVDance?token=test
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PR5Jv1R.png", Nick Music
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sk/YbqnbRBfshsI30xEbGA","kid":"6ubBLMqzSeauZ1q27YpHbA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6l1ZgxV.png", Much Music
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"woRfTFVPyvlqE9pKNzhoxA","kid":"HLBVj53dSCC8mYLOSD5YiA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar", tvg-logo="https://i.imgur.com/Wnxp3FA.png", CM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Osy3KQZ6ObO4FD8bRHudJQ","kid":"aC82tXNvRWCVHKFLgNKVJA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sea4SZR.png", QUIERO (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RadtzITwWM+ryLlY1zA7KA","kid":"o1SwyCo6cgxKb1LtWhGQ9A"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="HTV.us", tvg-logo="https://i.imgur.com/MwGkvXm.png", HTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1CJ/JDiam6dykyFLk+sNfQ","kid":"2uzvX+MvTOCDxqDGknVdag"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_session=437150675&_cdn_timestamp=1669266405&_cdn_token=6ea98437e5f80336615f1e26195fe0c2d9234849
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAIQFBW.png", Stingray Qello
 https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
@@ -1475,30 +1362,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
 #EXTINF:-1, Zona Latina
 http://170.79.235.29:8000/play/133
 
-#EXTINF:-1, Flow Music 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
-
-#EXTINF:-1, Flow Music 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
-
-#EXTINF:-1, Flow Music 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=32f9a916c608249e90f1c236c8d382fa:bdde7d4f46ba9504900b3dad286369dc
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.mpd
-
-#EXTINF:-1, MTV Classic
-https://us.justv.org:8080/hls/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA2OjIwOjQ1IEFNJmhhc2hfdmFsdWU9N0M0Mmp5MkhCaDh2QjZJd3paUFF4Zz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
-
 #EXTINF:-1, Teste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1509,7 +1372,5 @@ https://tvup-live.secure.footprint.net/somos6/somos6.mpd
 #EXTINF:-1, Univision
 http://89.187.175.143/3108/mpegts
 
-#EXTINF:-1, NBC Sports Chicago
-http://89.187.175.143/3116/mpegts
 
 
