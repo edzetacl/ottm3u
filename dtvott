@@ -365,6 +365,9 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png",EURONEWS
 https://siloh.pluto.tv/lilo/production/Euronews/master_1.m3u8
 
+#EXTINF:-1 tvg-id="BloombergTVPlus.us", Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp", tvg-logo="https://i.imgur.com/2joZfb5.png",Nhk World (Japanese)
 https://v-pi.mybtv.net/live/360.m3u8?
 
@@ -398,6 +401,9 @@ https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"drE/2KKY0YisUlI4eyKGhw","kid":"gveqrknlVsGYXaBGIzffQw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQWgAVC.png", tvg-id="LoveNature4K.ca",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us", tvg-logo="https://i.imgur.com/Fv4p3LU.png",Discovery Theater
 http://181.78.11.117:8000/play/a06r/index.m3u8
@@ -620,8 +626,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zwGEgwNEujatL/753S3Z0A","kid":"+q0XIqV19Nnse3dNtjyHnA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=2bdcf12a2d68305db6c5a1521efd11c7:ff22ccb2e8b75305f634ec90d18dc01c
+https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gMggelI.png", TNT Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -636,13 +642,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal (Flow)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u6XSatUFH7Pyz3492KSn2A","kid":"2bVB480GTVaYQ9pCeI1CYw"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -697,8 +696,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/Cin
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UfTmKCfBKPchC3mhFYdmGg","kid":"l3koqSuCujeBdBpkcPj0Ww"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=a7b05e3667903700af35356dd04dc541:62b59f0618484452a7e735d1faf3e3a4
+https://1046-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TBSPanregional.us", tvg-logo="https://i.imgur.com/XFFTAYW.png", TBS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -753,8 +752,8 @@ https://b43186.3.cdn.telefonica.com/_43186/sdash/LIVE$DHEHD/index.mpd/Manifest.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dEw2NtV6ZRq0RM+f5flbMw","kid":"H6aob9gLbRQl3edEgrXcnA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=4ff7f7bd977b33189108629f0effaa4b:211e132997cd8646eedf3d1bfe00696a
+https://1007-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGMDhqR.png", Clover Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1269,11 +1268,17 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=74d426155d66366e97dc3a95d406dc03:049cb061d1e683a01504192e5f8e90cb
 https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV France
+http://190.2.155.162:8080/mtvfrance/mpegts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP1)
 http://85.11.144.9:4222/MTVHits?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
 http://181.189.243.254:8000/play/a0pn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits France
+http://190.2.155.162:8080/mtvhit/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP1)
 http://190.83.119.67:8000/play/a0po/index.m3u8
@@ -1392,4 +1397,9 @@ http://89.187.175.143/4096/mpegts
 
 #EXTINF:-1, Unimas
 http://89.187.175.143/4097/mpegts
+
+#EXTINF:-1, beIN Sports EXTRA ESP
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
 
