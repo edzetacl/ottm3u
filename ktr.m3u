@@ -215,8 +215,8 @@ https://v-ca.mybtv.net/live/140.m3u8?
 https://v-px.mybtv.net/live/39.m3u8?
 
 
-#EXTINF:-1,Q RAI 4K [1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K [1]
 http://146.19.16.211:8018/play/a0a0
 
-#EXTINF:-1,Q RAI 4K [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K [2]
 http://45.153.35.200:8001/play/a067
