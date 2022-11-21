@@ -23,7 +23,11 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd|User-Agent="Mozilla
 https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="Mega.cl", tvg-logo="https://i.imgur.com/qLzjO1U.png", Mega
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8f63dac3923823a6fdfac3ce7f2a21:45be5c78b14caf1fa16535950d765b76
+https://1162-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ChileVision.cl", tvg-logo="https://i.imgur.com/f31Xmha.png", Chilevision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -87,8 +91,36 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5Ctdr0.png", Telemax Argentina
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
+#EXTINF:-1, Canal (a)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee2c412551525952804c0a9acbaddd53:bbd0a11709bcc3accf5f8fb85881cfc6
+https://dtvott-abc.akamaized.net/dash_live_1033/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Net TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8068d32952ca54aeaa9790d313e3e84c:c9e3b5f04de092fa0ae29137f0e92e3c
+https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCrWq1o.png", ATV Peru
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCrWq1o.png", ATV Peru (DTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd16d3dc021e31369f1df0ce68f0a4f3:3b872c2fbf3c4c7e6a77f126b8ebdc92
+https://1016-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCrWq1o.png", ATV+ Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a85710136cd7392dabdaf4e2d7169b5f:dae80dc1e63aff5975cce0f302870b79
+https://1017-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -381,12 +413,47 @@ http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QEzE+0X4LJp9/9PSSWzKIA","kid":"olXhOE2z6c5+A0noqpufdw"}],"type":"temporary"}
 http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us", tvg-logo="https://i.imgur.com/QxUrJ7c.png", Disney Junior
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a07d8bfe2f9956f28ca11466b4f520d5:11fdd8900d1eba9a6c95551f418dbf07
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="DiscoveryKidsChile.cl", tvg-logo="https://i.imgur.com/yDdy50p.png", Discovery Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us", tvg-logo="https://i.imgur.com/9JEnv7G.png",Cartoonito
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d842222f1715a59ad24623c21745344:87061469dad96757078704a03ee3c67f
+https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="BabyTVHD.uk", tvg-logo="https://i.imgur.com/UhxcIqw.png",Baby Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8JNNLQGjqmYrDEw0VhenWg","kid":"Ej16s3MNU4Svt28xCbg_zQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="DisneyChannelHDSouth.us", tvg-logo="https://i.imgur.com/yHHwhGZ.png", Disney Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0c49778bc451d2b5ea44346e72a85d:d5d5ed40788e07eaf3b0616b6abc9e1e
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="NickelodeonSouth.us", tvg-logo="https://i.imgur.com/roN9yBg.png", Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfcaedf675745b9c81e5a55bde8f530b:240ec219dd71670750f37afe83fead16
+https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="NationalGeographicHDSouth.us", tvg-logo="https://i.imgur.com/UXCFgqc.png", National Geographic HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -425,8 +492,8 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=149c371df27a56a18805272041381592:618b752d33c3e44420219b5c18b0f748
+https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="HistorySouth.us", tvg-logo="https://i.imgur.com/NJxedr8.png", History (Sur)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -460,15 +527,15 @@ https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=cba19074379a5b3c875cd1ace01b6cbe:d9549830c29d5ff0c5c701036eb9cba4
+https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="FoodNetworkHDPanregional.us", tvg-logo="https://i.imgur.com/KF47FMF.png",Food Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=756032fd73ed536f93a6d187a7956999:d1ab5f25f977c0dc01785b44d91cdb9c
+https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="HGTVHDPanregional.us", tvg-logo="https://i.imgur.com/0q4lwy1.png", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -525,8 +592,8 @@ http://160.20.164.171:8001/play/a00r
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=aab6b4fdb2e15bef8ef07c397b057e60:e42c375f8304be0563aea9b38eda1f76
+https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TruTVPanregional.us", tvg-logo="https://i.imgur.com/snH2rzp.png",TruTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -591,8 +658,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd|U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO5ygQVR2gy6DEWo32UZYg","kid":"kcVA01DzT1OG8/HHf3QAHw"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=bcae817ff7873a70b2fccd25b733db42:0f1f51febbf4eaafd859fab66e441715
+https://1111-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TVCortosHD.us", tvg-logo="https://i.imgur.com/c4920xF.png", TV Cortos HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -923,8 +990,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=66da31070eac58fcadb911804917ea28:886d612fb16aceb172db68fd3016a737
+https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
