@@ -29,11 +29,7 @@ https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://bit.ly/3tKSOMw?ronbars.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"33jRbDgdcB3HLsCxzIFZCw","k":"DyyQFjCg-FzxhkIno4vM_A"}]}
-https://live-molotov.fubo.tv/public/tf1/tf1.isml/fullhd25shft.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://livetv.ktv.zone/103/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn France 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
