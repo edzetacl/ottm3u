@@ -12,7 +12,7 @@ http://chromecast.cvattv.com.ar/live/c7eds/Eventos_4K_Downscaling/SA_Live_dash_e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=32a2a478899c5b04984f7dd6a10245c5:cd2c3f7c62d326c07ab0c93da5b56809
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zSw/fGLTJsB6sMk9pbVoCQ","kid":"MqKkeImcWwSYT33WoQJFxQ"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQX4MjC.png", Globo IPTV
@@ -56,7 +56,7 @@ https://1187-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c55ed8f82e5924b22d00ce154ae849:fdea8ee702bd5262cb6a2901dc37e7b0
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/eqO5wK9UmLLaikB3DfnsA","kid":"9MVe2PguWSSyLQDOFUroSQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://i.imgur.com/F2JEj4v.png", DeporTV Argentina
@@ -141,63 +141,57 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd|User-Agent="Mozil
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wd/04MvSxZTL2D6bpt6+TQ","kid":"as/4AzD9XaaWHjPYTf9NAw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DSports Chile LL
-https://streamco-media-fwc2022-matchcast.akamaized.net/Content/HLS_HLS/Live/channel(ul-dla-spa-matcha)/master_1p2.m3u8?hdnts=st=1669115413~exp=1669115533~acl=/*~hmac=405ff801f8952cf01f657e00f5473d673cc6f3639069e4c3fb2e77dc82ab2b17
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Ecuador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B8FzWtrBXeh33z+BtPxHMQ","kid":"6bxqHGTgXDWqcuErFtNSRw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Colombia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MejXyd7w1SPFWZBPI_lM4g","kid":"YCA7JTy0UBmwpzm7KzI0Wg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gTJACVEd4_8h6Q5S34CAdg","kid":"-qGVMAlCVmiFexrqS-takg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uJgnzJcM142ogv_KNQTHdA","kid":"cRkGm5kBW0657kMAV3OZ4g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/GXxVQwX.png", DIRECTV Sports (ARG)
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/GXxVQwX.png", DIRECTV Sports (ARG)
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/GXxVQwX.png", DSports Arg (LL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ywu6RSL/zZCotRVBoPz64A","kid":"uw7Kpq5iM2GXxk1BKcagnQ"}],"type":"temporary"}
 https://1057-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1057)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal 4 El Salvador
 https://telecorporacion.cdn.vustreams.com/live/71c9503a-be8f-4ce4-ac17-345a96cff63a/live.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RPC Panama
-https://mdstrm.com/live-stream-playlist-v/5d88d659120a717cf93ce620.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
