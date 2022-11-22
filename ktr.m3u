@@ -146,7 +146,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa8796510bf0357d9fc39bd81bbfca18:ea7138d07009dff7ebe6e2fedcebf660
-https://1058-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1058)/manifest.mpd
+https://1058-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1058)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
