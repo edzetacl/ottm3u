@@ -153,11 +153,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DSports Chile LL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6acff80330fd5da6961e33d84dff4d03:c1dff4e0cbd2c594cbd83e9ba6debe4d
-https://1058-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1058)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://streamco-media-fwc2022-matchcast.akamaized.net/Content/HLS_HLS/Live/channel(ul-dla-spa-matcha)/master_1p2.m3u8?hdnts=st=1669115413~exp=1669115533~acl=/*~hmac=405ff801f8952cf01f657e00f5473d673cc6f3639069e4c3fb2e77dc82ab2b17
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
