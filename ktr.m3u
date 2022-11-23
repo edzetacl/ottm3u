@@ -31,6 +31,9 @@ https://bit.ly/3tKSOMw?ronbars.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
 http://livetv.ktv.zone/103/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia (2)
+http://livetv.ktv.zone/3/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2
 http://livetv.ktv.zone/137/play.m3u8
 
