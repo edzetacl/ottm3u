@@ -184,7 +184,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MejXyd7w1SPFWZBPI_lM4g","kid":"YCA7JTy0UBmwpzm7KzI0Wg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://1059-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -205,7 +205,7 @@ https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://1057-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/GXxVQwX.png", DSports Arg (LL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
