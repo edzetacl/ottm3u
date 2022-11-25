@@ -15,18 +15,12 @@ http://chromecast.cvattv.com.ar/live/c7eds/Eventos_4K_Downscaling/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zSw/fGLTJsB6sMk9pbVoCQ","kid":"MqKkeImcWwSYT33WoQJFxQ"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQX4MjC.png", Globo IPTV
-http://189.91.128.146:4444/udp/227.10.20.109:1234
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
 https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil "4K"
-https://bit.ly/3tKSOMw?ronbars.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
 http://livetv.ktv.zone/103/play.m3u8
@@ -46,13 +40,6 @@ https://rsila2-euwe.akamaized.net/e3b58289-44a6-4fce-a1fa-8359d3e1074b/rsi2.ism/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SRF Sport
 http://livetv.ktv.zone/137/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn France 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"}]}
-https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kfyd8Bz.png", La 1 TVE España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -96,6 +83,9 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
 https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports (2)
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -116,13 +106,6 @@ https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd|User-Agent="Mozil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+7bQIs3mJ/Lrw4kXNa9d1Q","kid":"0BQffExbO5+wI8Ipqnj2bg"}],"type":"temporary"}
 https://1030-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWcSKbT.png", IVC Venezuela
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2Bd+vRX4k/xrucUSKo1z8w","kid":"TFY1yo+LUyuw8GEXnAveOg"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1153/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br23LCq.png", Teleamazonas Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -145,17 +128,32 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DScNTB7yoxmury9CTpsUQg","kid":"-tnq96mAMAaGr3gJwDd6AA"}],"type":"temporary"}
 https://1185-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72xiK5B.png", Caracol Colombia
+http://200.52.154.125:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Las Estrellas Mx
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 Mx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 Tijuana
+https://v-sd.mybtv.net/live/502.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkvS5NW.png", TUDN (Izzi)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Tigo Sports
+http://190.61.102.67:8000/play/a05x
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Tigo Sports (OP2)
+http://200.52.154.125:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Chile (LL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -240,6 +238,12 @@ https://v-ca.mybtv.net/live/140.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP2)
 https://v-px.mybtv.net/live/39.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP3)
+https://v-la.mybtv.net/live/267.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP4)
+https://v-ny.mybtv.net/live/659.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K/ADN
 http://186.79.160.212/master.m3u8
 
@@ -248,3 +252,7 @@ http://146.19.16.211:8018/play/a0a0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K
 http://45.153.35.200:8001/play/a067
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.m3u8
+
