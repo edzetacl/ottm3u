@@ -22,6 +22,9 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
 https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (2)
+http://51.79.82.208:16461
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
 http://livetv.ktv.zone/103/play.m3u8
 
