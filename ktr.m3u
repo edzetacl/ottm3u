@@ -37,6 +37,13 @@ http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2
 http://livetv.ktv.zone/137/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2 (mpd)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LvOxs8HlT6i7yu4iKqaAmg","k":"GKeeIVc-kzjq7yEpsk-hag"}]}
+https://rsila2-euwe.akamaized.net/e3b58289-44a6-4fce-a1fa-8359d3e1074b/rsi2.ism/manifest(format=mpd-time-csf,encryption=cenc,filter=nodvr).mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SRF Sport
 http://livetv.ktv.zone/137/play.m3u8
 
@@ -215,14 +222,14 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" Univision
 http://89.187.175.143/3108/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FS1
-http://89.187.175.143/3056/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TSN1
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FS2
-http://89.187.175.143/3028/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TSN1 (2)
+https://s@griomreavigremant654.s3.amazonaws.com/redzone2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo East
-http://89.187.175.143/4095/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Fox USA
+https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo West
 http://89.187.175.143/4096/mpegts
