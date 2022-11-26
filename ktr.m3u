@@ -232,12 +232,6 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" Univision
 http://89.187.175.143/3108/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TSN1
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TSN1 (2)
-https://s@griomreavigremant654.s3.amazonaws.com/redzone2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Fox USA
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8
 
@@ -247,17 +241,8 @@ http://89.187.175.143/4096/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP1)
 https://v-ca.mybtv.net/live/140.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP2)
-https://v-px.mybtv.net/live/39.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP3)
-https://v-la.mybtv.net/live/267.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP4)
-https://v-ny.mybtv.net/live/659.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K/ADN
-http://186.79.160.212/master.m3u8
+http://186.79.169.173/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K
 http://146.19.16.211:8018/play/a0a0
