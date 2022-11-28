@@ -229,7 +229,7 @@ https://1063-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1063)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I1iYzbELDNujXqLOlPux+w","kid":"qwIKFxDWMBaN4haYN1pDnA"}],"type":"temporary"}
 https://1063-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" Univision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Univision
 http://89.187.175.143/3108/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Fox USA
@@ -241,8 +241,11 @@ http://89.187.175.143/4096/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP1)
 https://v-ca.mybtv.net/live/140.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K/ADN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RAI 4K/Multi
 http://186.79.169.173/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RAI 4K/Test
+http://186.79.169.173/master2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K
 http://146.19.16.211:8018/play/a0a0
