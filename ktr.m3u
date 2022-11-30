@@ -1,49 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0DZGel.png", Flow Mundial
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pTcHFr/l9mdNW9HSb/nUkw","kid":"cUusa/nAylfKya982pujhg"}],"type":"temporary"}
-http://chromecast.cvattv.com.ar/live/c7eds/Eventos_4K_Downscaling/SA_Live_dash_enc_2A/Eventos_4K_Downscaling.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQX4MjC.png", Globo Brasil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zSw/fGLTJsB6sMk9pbVoCQ","kid":"MqKkeImcWwSYT33WoQJFxQ"}],"type":"temporary"}
-https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
-https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (2)
-http://51.79.82.208:16461
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
-http://livetv.ktv.zone/103/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia (2)
-http://livetv.ktv.zone/3/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2
-http://livetv.ktv.zone/137/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2 (mpd)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LvOxs8HlT6i7yu4iKqaAmg","k":"GKeeIVc-kzjq7yEpsk-hag"}]}
-https://rsila2-euwe.akamaized.net/e3b58289-44a6-4fce-a1fa-8359d3e1074b/rsi2.ism/manifest(format=mpd-time-csf,encryption=cenc,filter=nodvr).mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SRF Sport
-http://livetv.ktv.zone/137/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kfyd8Bz.png", La 1 TVE España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -177,7 +134,7 @@ https://1059-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1059)/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c05958a72703b8cb49656c62c74b0e9:33811275927ec1cd31f92bf03b83565b
+#KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0&v4
 https://1057-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1057)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Chile
@@ -219,7 +176,7 @@ https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c05958a72703b8cb49656c62c74b0e9:33811275927ec1cd31f92bf03b83565b
+#KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0&v4
 https://1057-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports 2 (LL)
@@ -233,11 +190,44 @@ https://1063-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1063)/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jc5PbNPuVhOSL5x/b24HvQ","kid":"FBPKoD4EV0O2SWIysJ5o+g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=ba2f673e785633d4a5dcf77f1eec6ad6:4b701841d998a56c4ce8ee22a866495b
 https://1063-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Univision
-http://89.187.175.143/3108/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQX4MjC.png", Globo Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zSw/fGLTJsB6sMk9pbVoCQ","kid":"MqKkeImcWwSYT33WoQJFxQ"}],"type":"temporary"}
+https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
+https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (2)
+http://51.79.82.208:16461
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
+http://livetv.ktv.zone/103/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia (2)
+http://livetv.ktv.zone/3/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2
+http://livetv.ktv.zone/137/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RSI La 2 (mpd)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LvOxs8HlT6i7yu4iKqaAmg","k":"GKeeIVc-kzjq7yEpsk-hag"}]}
+https://rsila2-euwe.akamaized.net/e3b58289-44a6-4fce-a1fa-8359d3e1074b/rsi2.ism/manifest(format=mpd-time-csf,encryption=cenc,filter=nodvr).mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SRF Sport
+http://livetv.ktv.zone/137/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Fox USA
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8
