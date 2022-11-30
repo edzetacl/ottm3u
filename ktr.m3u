@@ -221,17 +221,14 @@ https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Telemundo US (OP1)
 https://v-ca.mybtv.net/live/140.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RAI 4K/Multi
-http://186.79.169.173/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FaZOWlf.png",RAI4K [AUDIO:ITA-AMBIENTE]
+http://4kmalejandro.ddns.net/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", RAI 4K/Test
-http://186.79.169.173/master2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FaZOWlf.png",RAI4K [AUDIO:C13]
+http://4kmalejandro.ddns.net/master_13.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K
-http://146.19.16.211:8018/play/a0a0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Q RAI 4K
-http://45.153.35.200:8001/play/a067
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FaZOWlf.png",RAI4K [AUDIO:DIRECTV][CON DELAY]
+http://4kmalejandro.ddns.net/master_dtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.m3u8
