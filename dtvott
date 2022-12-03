@@ -583,10 +583,10 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/
 https://1217-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx", tvg-logo="https://i.imgur.com/gmS4vl9.png",Las Estrellas Internacional
-http://8.243.108.57:8000/play/a030
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx", tvg-logo="https://i.imgur.com/tQTTafp.png",TLnovelas
-http://160.20.164.171:8001/play/a00r
+https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us", tvg-logo="https://i.imgur.com/hZ5VUPA.png",Investigation Discovery
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -596,11 +596,7 @@ http://160.20.164.171:8001/play/a00r
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TruTVPanregional.us", tvg-logo="https://i.imgur.com/snH2rzp.png",TruTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0cecffe9c29734343cf9983978c1a1:f86b5ac05f2a2626b6c61bd4e13344d8
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc/TruTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpROyRw.jpg",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -724,19 +720,29 @@ https://1210-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"78piZPBM9zc94MMOx5/pCQ","kid":"CULk7NG9NWfo+UR/RcIKEg"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="GoldenPanregional.mx", tvg-logo="https://i.imgur.com/fqkinet.png",Golden
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
-https://channel-golden-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqkinet.png",Golden 1
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqkinet.png",Golden 2
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqkinet.png",Golden 3
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx", tvg-logo="https://i.imgur.com/mclchDV.png", Golden Edge
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPlus.mx", tvg-logo="https://i.imgur.com/k7uCDly.png", Golden Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
-https://channel-goldenplus-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NLMorj.png", Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8LoY9S.png", De Pelicula
+https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDrzqx8.png", De Pelicula Plus
+https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://i.imgur.com/ieshmNx.png", FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
