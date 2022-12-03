@@ -1416,11 +1416,14 @@ https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I854.73070.schedulesdirect.org", tvg-logo="https://i.imgur.com/dk3yW5a.png", Telehit Musica Plus
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
-#EXTINF:-1, Bandamax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THSFKFG.png", Bandamax (izi)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THSFKFG.png", Bandamax (v!x)
+https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 
 #EXTINF:-1, Trace Urban
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
