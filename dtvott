@@ -1362,8 +1362,8 @@ http://85.11.144.9:4222/VH1Classic?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv80s
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP4)
-http://myott.top/stream/P4H2M76YRH/87.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OPUK)
+http://62.131.92.221:60130/play/a03u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP1)
 http://myott.top/stream/P4H2M76YRH/88.m3u8
@@ -1381,22 +1381,13 @@ http://85.17.17.249/mtv_rocks/index.m3u8
 http://181.189.243.254:8000/play/a0sw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP2)
-http://38.143.137.221:8000/LA49/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
 http://myott.top/stream/P4H2M76YRH/165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
 http://iptv.prosto.tv:7000/ch129/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD (OP2)
 http://myott.top/stream/P4H2M76YRH/215.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV 
-http://iptv.prosto.tv:7000/ch125/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
 http://85.11.144.9:4222/MTVDance?token=test
@@ -1404,8 +1395,24 @@ http://85.11.144.9:4222/MTVDance?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf6Z4Sn.png", VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PR5Jv1R.png", Nick Music
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_session=437150675&_cdn_timestamp=1669266405&_cdn_token=6ea98437e5f80336615f1e26195fe0c2d9234849
+#EXTINF:-1, MTV Tr3s
+http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/422268
+
+#EXTINF:-1, MTV Classic (1)
+http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/428501
+
+#EXTINF:-1, MTV Classic (2)
+http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/417897
+
+#EXTINF:-1, MTV Classic (3)
+http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
+
+#EXTINF:-1, MTV Xmas
+http://62.131.92.221:60130/play/a03t
+
+#EXTINF:-1, MTV Xmas (OP2)
+http://62.131.92.221:60130/play/a096
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAIQFBW.png", Stingray Qello
 https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
@@ -1439,40 +1446,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
 
 #EXTINF:-1, Trace Brazuca
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
-
-#EXTINF:-1, Zona Latina
-http://170.79.235.29:8000/play/133
-
-#EXTINF:-1, Teste
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c8912d93cb5b56549b7ad40e0c2d34cd":"f379e778b587b52b48dc40435f4b7174","2a16766791d15f21b47102e19f7dbf9c":"a3220bee698592192e69767c14e6bbed","59a0e6a21b645c64b3d0ceb86e5aa315":"7e03a40b82c30a04772ab1e12b03a8bf"}
-https://tvup-live.secure.footprint.net/somos6/somos6.mpd
-
-#EXTINF:-1, Univision
-http://89.187.175.143/3108/mpegts
-
-#EXTINF:-1, NBC6
-http://89.187.175.143/3084/mpegts
-
-#EXTINF:-1, WWE
-http://89.187.175.143/3075/mpegts
-
-#EXTINF:-1, FS1
-http://89.187.175.143/3056/mpegts
-
-#EXTINF:-1, FS2
-http://89.187.175.143/3028/mpegts
-
-#EXTINF:-1, Telemundo East
-http://89.187.175.143/4095/mpegts
-
-#EXTINF:-1, Telemundo West
-http://89.187.175.143/4096/mpegts
-
-#EXTINF:-1, Unimas
-http://89.187.175.143/4097/mpegts
 
 #EXTINF:-1, beIN Sports EXTRA ESP
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
