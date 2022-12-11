@@ -1,13 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kfyd8Bz.png", La 1 TVE España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gycXR1sqURW3-VsAWgzgpw","k":"EDMcSqASkkZXJhpPkI-sIw"},{"kty":"oct","kid":"6LmGYdzuVwa6PpwxnaXu_A","k":"CJFMPdStFajMbqqlqy6spg"}]}
-https://tvup-live.secure.footprint.net/la1-neutra/la1-neutra.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIINoSK.png", Canal 10 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -42,9 +35,6 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
 https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports (2)
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -94,14 +84,11 @@ https://channel-canal5-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Window
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Las Estrellas Mx
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 Mx
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 (Izzi)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7 Tijuana
-https://v-sd.mybtv.net/live/502.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkvS5NW.png", TUDN (Izzi)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -199,9 +186,6 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
 https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (2)
-http://51.79.82.208:16461
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COHEVZi.png", TF1 Francia
 http://livetv.ktv.zone/103/play.m3u8
