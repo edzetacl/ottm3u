@@ -374,6 +374,9 @@ http://live.entel.cl/2300/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-id="France24Espanol.fr", tvg-logo="https://i.imgur.com/ETJ6rGu.png",France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
 
+#EXTINF:-1 tvg-id="France24Espanol.fr", tvg-logo="https://i.imgur.com/ETJ6rGu.png",France 24 Esp
+https://kafra25.webcindario.com/tutube.php?id=@France24_es
+
 #EXTINF:-1 tvg-id="Canal24Horas.es", tvg-logo="https://i.imgur.com/0Bzo6Ei.png",24Hrs TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
