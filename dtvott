@@ -1365,6 +1365,9 @@ http://myott.top/stream/P4H2M76YRH/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP2)
 http://85.11.144.9:4222/MTVRocks?token=test
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP2.5)
+http://str1.isv.net:4222/MTVRocks?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv90s
 
@@ -1388,6 +1391,9 @@ http://myott.top/stream/P4H2M76YRH/215.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
 http://85.11.144.9:4222/MTVDance?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
+http://str1.isv.net:4222/MTVDance?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf6Z4Sn.png", VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
