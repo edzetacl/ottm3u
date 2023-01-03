@@ -1476,3 +1476,22 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1, beIN Sports ESP
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.ts
 
+#EXTINF:-1, Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+#EXTINF:-1, Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
+
+#EXTINF:-1, MiamiTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
+
+#EXTINF:-1, MiamiTV Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1456
+
+#EXTINF:-1, MiamiTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
+
+#EXTIN:-1, El Pingüino TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
+
+
