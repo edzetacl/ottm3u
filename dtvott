@@ -1338,7 +1338,7 @@ https://dtvott-abc.akamaized.net/dash_live_1067/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8cf52be0eb358c9a8bfcd1fc94d7cb5:834c7082d28d85f5da38dde949b66c9a
-https://dtvott-abc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dtvott-cbc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://i.imgur.com/w698WAi.png", Quiero Musica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1447,7 +1447,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAIQFBW.png", Stingray Qello (OP2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1015
 
-#EXTINF:-1, Zapping Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6aWUl4.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-id="I235.15211.schedulesdirect.org", tvg-logo="https://i.imgur.com/mZ5TgHA.png", Telehit
@@ -1468,44 +1468,38 @@ https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THSFKFG.png", Bandamax (v!x)
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 
-#EXTINF:-1, Trace Urban
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgF53NJ.png", Trace Urban
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
 
-#EXTINF:-1, Trace Latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r8C0ymx.png", Trace Latina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
 
-#EXTINF:-1, Trace Brazuca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgJrsv1.png", Trace Brazuca
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
 
-#EXTINF:-1, beIN Sports EXTRA ESP
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1, beIN Sports ESP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png", beIN Sports ESP
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.ts
 
-#EXTINF:-1, BeIn Sports English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png", BeIn Sports English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
-#EXTINF:-1, Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWo7Tcp.png", Real Madrid TV English
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1, Real Madrid TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
-
-#EXTINF:-1, MiamiTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsxG1VP.png", MiamiTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
 
-#EXTINF:-1, MiamiTV Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsxG1VP.png", MiamiTV Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1456
 
-#EXTINF:-1, MiamiTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsxG1VP.png", MiamiTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 
-#EXTIN:-1, El Pingüino TV
+#EXTINF:-1, El Pingüino TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
 
 
