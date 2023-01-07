@@ -1355,16 +1355,10 @@ https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd|User-Agent="Mozilla
 https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP1)
-http://85.11.144.9:4222/MTVHits?token=test
+http://myott.top/stream/P4H2M76YRH/302.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
 http://181.189.243.254:8000/play/a0pn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP3)
-http://iptv.prosto.tv:7000/ch126/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP4)
-http://85.11.144.8:5666/MTVHits?token=test
 
 #EXTINF:-1, MTV Classic East
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
@@ -1379,64 +1373,49 @@ http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/417897
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP1)
-http://190.83.119.67:8000/play/a0po/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP2)
-http://iptv.prosto.tv:7000/ch130/video.m3u8
+http://myott.top/stream/P4H2M76YRH/87.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv80s
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP4)
-http://85.11.144.8:5666/VH1Classic?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OPUK)
-http://62.131.92.221:60130/http://85.11.144.8:5666/play/a03u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP1)
 http://myott.top/stream/P4H2M76YRH/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP2)
-http://85.11.144.9:4222/MTVRocks?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP2.5)
-http://str1.isv.net:4222/MTVRocks?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv90s
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP4)
-http://85.17.17.249/mtv_rocks/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP5)
-http://85.11.144.8:5666/MTVRocks?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP1)
 http://181.189.243.254:8000/play/a0sw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP2)
 http://myott.top/stream/P4H2M76YRH/165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
-http://iptv.prosto.tv:7000/ch129/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP4)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP5)
-http://85.11.144.8:5666/VH1?token=test
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD
 http://myott.top/stream/P4H2M76YRH/215.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
-http://85.11.144.9:4222/MTVDance?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD (OP2)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
-http://str1.isv.net:4222/MTVDance?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
-http://iptv.prosto.tv:7000/ch125/video.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf6Z4Sn.png", VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
@@ -1446,6 +1425,9 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAIQFBW.png", Stingray Qello (OP2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1015
+
+#EXTINF:-1, Stingray iConcerts
+http://myott.top/stream/Z2BTLIJLVX/267.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6aWUl4.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
@@ -1501,5 +1483,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 
 #EXTINF:-1, El Pingüino TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
+
+#EXTINF:-1, Futbol (?)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 
 
